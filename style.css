@@ -1,0 +1,26 @@
+#wrapper {
+	width: 750px;
+	overflow: hidden;
+}
+#app {
+	width: 500px;
+	float: left;
+}
+#panel {
+	overflow: hidden;
+	background-color: #CCCCCC;
+	height: 500px;
+}
+.head {
+	font-family: "Arial";
+}
+#title {
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 25px;
+	margin-bottom: 2px;
+}
+#author {
+	margin-left: 53px;
+	margin-top: 2px;
+}
